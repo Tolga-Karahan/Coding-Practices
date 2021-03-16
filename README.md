@@ -1,2 +1,2 @@
 # Code-Practices
-Contains my code practices in various languages
+Contains my coding practices in various languages
