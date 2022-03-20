@@ -1,0 +1,11 @@
+We can analyze the problem at hand by using 4+1 Views technique. This views are:
+
+    - Logical view: It's view of data entities their attributes and relationships.
+    - Process view: It's view of how data is processed. It can contain state diagrams,
+activity diagrams and sequence diagrams.
+    - Development view: This view shows relationships between software components, how
+class definitions organized in modules and packages.
+    - Physical view: This view shows how componets are integrated and deployed.
+    - Context view: This view provides a unifying context for the other four views. It
+often describes the actors that use or interact with the system.
+

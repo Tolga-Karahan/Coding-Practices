@@ -1,0 +1,5 @@
+In OOP languages like Java, C++ we should define the hierarchy to utilize
+polymorphism. In Python we don't define any explicit hierarchy. For example
+if a function gets an object and calls a function on it, it can use any type
+of object if the object has the function. There is no need to define any 
+explicit hiearchy. It's called duck typing.

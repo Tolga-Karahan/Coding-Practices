@@ -1,0 +1,4 @@
+If an object's lifespan is not bound to the object that is part of then it's a aggregation. 
+If not it's a composition. In composition relationship, composite object controls when the member
+object will be created or destroyed. If member object can live without the composite object and
+can be independent of it then it's a aggregation relationship. 
